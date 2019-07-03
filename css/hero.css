@@ -42,4 +42,7 @@ header img{
 		max-width: 600px;
 		margin: auto;
 		text-align: center;
+		border-radius: 25px;
+		font-size: 18px;
+		color: black
 	}
