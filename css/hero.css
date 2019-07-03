@@ -1,5 +1,5 @@
 html, body{
-	
+	background-color: #81bef7;
 	font-family: sans-serif
 	}
 html, body{
@@ -34,4 +34,12 @@ header img{
 
 	img.profile{
 		max-width: 100%
+	}
+
+	footer{
+		background-color: #f04848;
+		border: 20px solid #e83333;
+		max-width: 600px;
+		margin: auto;
+		text-align: center;
 	}
