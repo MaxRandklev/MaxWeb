@@ -1,0 +1,126 @@
+h1{
+	background-color: #336600;
+	color: white;
+	border-radius: 100px;
+	border: 10px solid  #009933;
+	text-align: center;
+}
+
+html, body{
+	background-color: #ffd480;
+	font-family: sans-serif;
+}
+
+.Intro{
+	background-color: #336600;
+	border: 10px solid  #009933;
+	color: white;
+	text-align: center;
+	max-width: 800px;
+	margin: auto;
+	font-size: 22px;
+}
+
+.one{
+	background-color: #336600;
+	border: 10px solid  #009933;
+	color: white;
+	text-align: center;
+	max-width: 600px;
+	margin: auto;
+}
+
+.one img{
+	border: 10px solid  #009933;
+	border-radius: 100px
+}
+
+.two{
+	background-color: #336600;
+	border: 10px solid  #009933;
+	color: white;
+	text-align: center;
+	max-width: 600px;
+	margin: auto;
+}
+
+.two img{
+	border: 10px solid  #009933;
+	border-radius: 100px
+}
+
+#title{
+	color: white;
+	font-size: 22px;
+}
+
+ol{
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.three{
+	background-color: #336600;
+	border: 10px solid  #009933;
+	color: white;
+	text-align: center;
+	max-width: 600px;
+	margin: auto;
+}
+
+.three img{
+	border: 10px solid  #009933;
+	border-radius: 100px
+}
+
+.four{
+	background-color: #336600;
+	border: 10px solid  #009933;
+	color: white;
+	text-align: center;
+	max-width: 600px;
+	margin: auto;
+}
+
+.four img{
+	border: 10px solid  #009933;
+	border-radius: 100px
+}
+
+footer{
+	background-color: #336600;
+	color: white;
+	border-radius: 100px;
+	border: 10px solid  #009933;
+	text-align: center;
+}
+
+.five{
+	background-color: #336600;
+	border: 10px solid  #009933;
+	color: white;
+	text-align: center;
+	max-width: 600px;
+	margin: auto;
+	padding-bottom: 15px;
+	text-decoration: none
+}
+
+.five img{
+	border: 10px solid  #009933;
+	border-radius: 100px
+}
+
+.money{
+	background-color: #336600;
+	border: 10px solid  #009933;
+	color: white;
+	text-align: center;
+	max-width: 600px;
+	margin: auto;
+	padding-bottom: 15px;
+	font-size: 22px;
+	text-decoration: none;
+}
+}
